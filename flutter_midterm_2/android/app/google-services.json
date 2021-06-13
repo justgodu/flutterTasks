@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61923153387",
+    "project_id": "fluttermidterm",
+    "storage_bucket": "fluttermidterm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61923153387:android:1fc5576ff1ac3cf124b5ae",
+        "android_client_info": {
+          "package_name": "ge.btu.godu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61923153387-kduauhijmv53j3r0e3ecldo4r62974au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr878QnwtgDPVNu0Jaxx_rO6VOaBgO9vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61923153387-kduauhijmv53j3r0e3ecldo4r62974au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
